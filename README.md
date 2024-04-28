@@ -1,5 +1,7 @@
 # Conversor_de_moneda
 
+Este proyecto representa una parte esencial del curso "Java Orientado a Objetos" impartido por Alura One Next Education. Se trata de un conversor de monedas que permite la conversión entre varias monedas internacionales y el dólar estadounidense, así como la conversión inversa. Este programa, diseñado con una interfaz interactiva para el usuario, facilita la selección de las monedas de origen y destino, agilizando el proceso de conversión. Además, hace uso de la API ExchangeRate-API para obtener los tipos de cambio actualizados, garantizando la precisión y fiabilidad de las conversiones realizadas.
+
 Description
 En este emocionante desafío de programación, te invitamos a construir tu propio Conversor de Monedas. Aprenderás a realizar solicitudes a una API de tasas de cambio, a manipular datos JSON y, finalmente, a filtrar y mostrar las monedas de interés. ¡Prepárate para una experiencia práctica y emocionante en el desarrollo Java!
 
